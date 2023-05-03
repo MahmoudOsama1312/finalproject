@@ -1,9 +1,6 @@
-import React from 'react'
-import { useParams } from 'react-router-dom'
-import { useState } from 'react';
 import axios from 'axios';
-import { useEffect } from 'react';
-import { Helmet } from "react-helmet";
+import React, { useEffect, useState } from 'react';
+import { useParams } from 'react-router-dom';
 
 export default function Details() {
 

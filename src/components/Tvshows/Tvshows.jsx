@@ -1,12 +1,7 @@
-import React from 'react'
-import axios from 'axios'
-import { useState } from 'react';
-import { useEffect } from 'react';
-import styles from './Tvshows.module.scss'
+import axios from 'axios';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { useContext } from 'react';
-import { MediaContext } from '../Context/MediaStore';
-import { Helmet } from "react-helmet";
+import styles from './Tvshows.module.scss';
 
 export default function Tvshows() {
   let [tvShows, setTvShows] = useState([]);

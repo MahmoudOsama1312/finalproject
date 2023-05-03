@@ -1,7 +1,6 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import styles from './Navbar.module.scss';
-import { Link } from 'react-router-dom'
-import logo from '../../imgs/logo.png'
 
 export default function Navbar({ userData ,logout}) {
   console.log(userData)

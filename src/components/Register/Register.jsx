@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from 'react';
-import axios, { AxiosError, AxiosHeaders } from 'axios';
+import axios from 'axios';
 import joi from 'joi';
+import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Helmet } from "react-helmet";
 
 export default function Register() {
   //  hena 3andi el useState ({}) 3obara 3n Object ( Json ) 3lshan da el hab3to lel Backend

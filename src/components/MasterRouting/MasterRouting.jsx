@@ -1,6 +1,6 @@
-import React from 'react'
-import Navbar from '../Navbar/Navbar';
+import React from 'react';
 import { Outlet } from 'react-router-dom';
+import Navbar from '../Navbar/Navbar';
 
 
 export default function MasterRouting({ userData ,logout }) {  // lmma t3mlha { } , msh m7tag props. (Destructing)

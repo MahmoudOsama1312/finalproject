@@ -1,7 +1,5 @@
-import { createContext } from "react";
-import axios from 'axios'
-import { useState } from 'react';
-import { useEffect } from 'react';
+import axios from 'axios';
+import { createContext, useEffect, useState } from "react";
 
 export let MediaContext = createContext(0);
 //------------------------------------------------------------------

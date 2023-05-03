@@ -1,11 +1,7 @@
-import React, { useContext } from 'react'
-import styles from './Movies.module.scss'
+import axios from 'axios';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { MediaContext } from '../Context/MediaStore';
-import { Helmet } from "react-helmet";
-import axios from 'axios'
-import { useState } from 'react';
-import { useEffect } from 'react';
+import styles from './Movies.module.scss';
 
 export default function Movies() {
   let [movies, setMovies] = useState([]);
