@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "movie_name": "The Godfather",
+      "author_name": "Francis Ford Coppola",
+      "year": 1972,
+      "image_url": "https://ntvb.tmsimg.com/assets/p6326_v_h8_be.jpg?w=960&h=540"
+    },
+    {
+      "movie_name": "The Shawshank Redemption",
+      "author_name": "Frank Darabont",
+      "year": 1994,
+      "image_url": "https://www.movieartarena.com/imgs/shawshank-redemption.jpg"
+    },
+    {
+      "movie_name": "The Dark Knight",
+      "author_name": "Christopher Nolan",
+      "year": 2008,
+      "image_url": "https://www.movieartarena.com/imgs/darkknight.jpg"
+    },
+    {
+      "movie_name": "The Lord of the Rings: The Fellowship of the Ring",
+      "author_name": "Peter Jackson",
+      "year": 2001,
+      "image_url": "https://www.movieartarena.com/imgs/lordoftherings1.jpg"
+    },
+    {
+      "movie_name": "Pulp Fiction",
+      "author_name": "Quentin Tarantino",
+      "year": 1994,
+      "image_url": "https://www.movieartarena.com/imgs/pulpfiction.jpg"
+    },
+    {
+      "movie_name": "Fight Club",
+      "author_name": "David Fincher",
+      "year": 1999,
+      "image_url": "https://www.movieartarena.com/imgs/fightclub.jpg"
+    },
+    {
+      "movie_name": "Star Wars: Episode IV - A New Hope",
+      "author_name": "George Lucas",
+      "year": 1977,
+      "image_url": "https://www.movieartarena.com/imgs/starwars1.jpg"
+    }
+  ]
+}

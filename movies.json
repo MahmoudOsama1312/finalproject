@@ -1,0 +1,52 @@
+{
+  "movies": [
+    {
+      "movie_name": "Frozen",
+      "author_name": "Chris Buck",
+      "year": 2013,
+      "image_url": "https://i.pinimg.com/564x/68/da/21/68da2190de85275a4e2e4948c3ca97d1.jpg"
+    },
+    {
+      "movie_name": "Joker",
+      "author_name": "Bill Finger",
+      "year": 2019,
+      "image_url": "https://i.pinimg.com/564x/cb/88/4d/cb884d4cfeb4b78913614074accedfeb.jpg"
+    },
+    {
+      "movie_name": "SpongePop",
+      "author_name": "Stephen McDannell Hillenburg",
+      "year": 2020,
+      "image_url": "https://i.pinimg.com/564x/f1/9b/0c/f19b0c399b333cec782eead071aee511.jpg"
+    },
+    {
+      "movie_name": "Sherlock",
+      "author_name": "Arthur Conan Doyle",
+      "year": 2021,
+      "image_url": "https://i.pinimg.com/564x/20/38/08/203808fe0aea943e9092a0a61e4593cf.jpg"
+    },
+    {
+      "movie_name": "Lucifer",
+      "author_name": "Tom Kapinos",
+      "year": 2016,
+      "image_url": "https://i.pinimg.com/564x/5e/3c/75/5e3c757849f708e0525a70c18efa91bb.jpg"
+    },
+    {
+      "movie_name": "The Revenant",
+      "author_name": "Michael Punke",
+      "year": 2015,
+      "image_url": "https://i.pinimg.com/564x/f6/ae/f6/f6aef6a110c3ff69029865bd22607831.jpg"
+    },
+    {
+      "movie_name": "Gone Girl",
+      "author_name": "Gillian Flynn",
+      "year": 2014,
+      "image_url": "https://i.pinimg.com/564x/fc/dd/51/fcdd511ab39742a1a60c252beb1c8fe6.jpg"
+    },
+    {
+      "movie_name": "Up",
+      "author_name": "Pete Docter",
+      "year": 2009,
+      "image_url": "https://i.pinimg.com/564x/82/d5/4f/82d54fc5ab8658a866522f385f058e2b.jpg"
+    }
+  ]
+}

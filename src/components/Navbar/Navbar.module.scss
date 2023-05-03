@@ -1,0 +1,10 @@
+@import '../../index.scss';
+
+.bgNav{
+    background-color: $lighBgColor;
+}
+
+// hena byta3mel m3 el anchor as element lw7do
+a{
+    color: $fontColor !important;
+}

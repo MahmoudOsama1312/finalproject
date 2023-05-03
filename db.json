@@ -1,0 +1,12 @@
+{
+  "user": [
+    {
+      "first_name": "Mahmoud",
+      "last_name": "Osama",
+      "age": "27",
+      "e_mail": "mahmoud@gmail.com",
+      "password": "l123",
+      "id": 1
+    }
+  ]
+}
